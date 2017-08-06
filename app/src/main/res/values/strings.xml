@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Popular Movies</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_movie_detail">MovieDetail</string>
+
+    <string name="action_sort_by">Sort by</string>
+    <string name="action_sort_by_popularity">Popularity</string>
+    <string name="action_sort_by_average_vote">Rating</string>
+    <string name="action_sort_by_favorite">Favorite</string>
+
+    <string name="action_share">Share</string>
+
+    <string name="button_mark_favorite">MARK AS\nFAVORITE</string>
+
+    <string name="label_trailers">Trailers:</string>
+    <string name="label_reviews">Reviews:</string>
+</resources>
